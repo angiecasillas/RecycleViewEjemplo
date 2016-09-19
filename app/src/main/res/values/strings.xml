@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecycleViewEjemplo</string>
+    <string name="pnombre">Nombre</string>
+    <string name="ptelefono">Teléfono</string>
+    <string name="pemail">Email</string>
+
+</resources>
